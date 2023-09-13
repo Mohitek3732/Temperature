@@ -1,2 +1,2 @@
-# Temperature
-This is an temperature convert website.which convert temperature from celsius to Kelvin.
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
